@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/atakndogn/react_tutorial/static/css/main.9345b6e2.css",
-    "main.js": "/atakndogn/react_tutorial/static/js/main.74552729.js",
-    "index.html": "/atakndogn/react_tutorial/index.html",
-    "main.9345b6e2.css.map": "/atakndogn/react_tutorial/static/css/main.9345b6e2.css.map",
-    "main.74552729.js.map": "/atakndogn/react_tutorial/static/js/main.74552729.js.map"
+    "main.css": "/react_tutorial/static/css/main.9345b6e2.css",
+    "main.js": "/react_tutorial/static/js/main.74552729.js",
+    "index.html": "/react_tutorial/index.html",
+    "main.9345b6e2.css.map": "/react_tutorial/static/css/main.9345b6e2.css.map",
+    "main.74552729.js.map": "/react_tutorial/static/js/main.74552729.js.map"
   },
   "entrypoints": [
     "static/css/main.9345b6e2.css",
